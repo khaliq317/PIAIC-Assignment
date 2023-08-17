@@ -1,0 +1,1 @@
+console.log("Successfully Installed Node.js,Typescript and VS Code Editor at PC.");
